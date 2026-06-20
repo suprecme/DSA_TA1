@@ -1,0 +1,12 @@
+THEORY: Team Assignment 1
+Data Structures and Algorithm Analysis
+
+ * Group 1 - Data Structure and Algorithm Analysis
+ * Anggota Kelompok:
+ * 1. AGUSTINA ROMAULI SINAGA // 2902786144
+ * 2. FACHRYZAL AMRI // 2802542653
+ * 3. HANIF AHMAD NURMAAJID // 2502080345
+ * 4. KUKUH CHIHO MEHAGA BUKIT // 2802608132
+ * 5. RAHMA SETIANINGSIH // 2902791371
+ *
+ * Tugas TA1: PlaylistOOP.java
